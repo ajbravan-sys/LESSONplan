@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Science</title>
+  <style>body{font-family:Arial;background:#fff;margin:18px} .wrap{max-width:900px;margin:auto}</style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Science</h1>
+    <p>This is the Science subject page. Add lesson plans using files like <code>science-cell.html</code>, <code>science-tissue.html</code>, etc.</p>
+
+    <h3>Lesson Plan Links (Add when created):</h3>
+    <ul></ul>
+
+    <p><a href="index.html">← Back to Subjects</a></p>
+  </div>
+</body>
+</html>
