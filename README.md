@@ -7,7 +7,7 @@
   <title>Lesson Plans — Subjects</title>
   <style>
     body{font-family:Arial,Helvetica,sans-serif;margin:20px;background:#f7fafc;color:#111}
-    .card{background:white;padding:14px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.06);max-width:760px;margin:auto}
+    .card{background:white;padding:14px;border-radius:16px;box-shadow:0 6px 18px rgba(0,0,0,0.06);max-width:760px;margin:auto}
     h1{text-align:center}
     ul{list-style:none;padding:0;margin:12px 0}
     li{margin:8px 0}
